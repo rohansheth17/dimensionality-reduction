@@ -1,0 +1,1 @@
+You can run all blocks in the ipython notebook PCA.ipynb that is provided in the code folder. 
